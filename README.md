@@ -6,5 +6,3 @@
         <td> <img width = "495px" align = "left" src = "https://github-readme-stats.vercel.app/api?username=andrefranzoi&theme=buefy" /> </td>
     </tr>   
   </table>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andrefranzoi&" alt="andrefranzoi" /></p>
